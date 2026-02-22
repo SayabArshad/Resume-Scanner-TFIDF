@@ -61,9 +61,9 @@ Display similarity scores, sort results, and print the best match.
 
 ```
 Resume-Scanner-TFIDF/
-│-- Create a Resume Scanner using keyword extraction.py   # Main script
-│-- README.md                                             # Documentation
-│-- assets/                                               # Images for README
+│-- Create a Resume Scanner using keyword extraction.py   
+│-- README.md                                            
+│-- assets/                                               
 │    ├── code.JPG
 │    └── output.JPG
 ```
